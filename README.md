@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hossein.<br>I'm a backend programming intern(python | django)<br>I'm learning advanced Python and interested in web development.<br>My goal is to become the best I can be in the programming world...
+👋Hi, I'm Hossein.<br>🎓I'm a backend programming intern(python | django)<br>💻I'm learning advanced Python and interested in web development.<br>👨‍💻My goal is to become the best I can be in the programming world...
 
 
 ## 🌐 Socials:
